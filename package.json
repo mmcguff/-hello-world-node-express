@@ -4,8 +4,7 @@
   "description": "Baisc Hello World express application",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
-    "build": "npm run publish"
+    "start": "node app.js"
   },
   "author": "Matthew McGuff",
   "license": "ISC",
