@@ -1,0 +1,14 @@
+{
+  "name": "hello-world-node-express",
+  "version": "1.0.0",
+  "description": "Baisc Hello World express application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Matthew McGuff",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
